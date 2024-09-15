@@ -1,1 +1,12 @@
-E8CDSN72
+Front end 
+we are going to design our frontend with html and css. 
+We are also going to use javascript to fetch data from our api.
+API KEY = dfaf87e8e31b545f8eec4ba9b8e62943
+
+
+
+
+
+
+
+Backend
